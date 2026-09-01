@@ -5,7 +5,7 @@ Repositório destinado à resolução da lista de exercícios sobre **Funções,
 ## Conteúdos Abordados
 
 * **Function Declaration**
-* * **Function Expression**
+* **Function Expression**
 * **Arrow Functions** e Retorno Implícito
 * **Functions Callbacks** e Execução Assíncrona
 * **Hoisting**
